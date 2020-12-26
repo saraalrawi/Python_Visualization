@@ -7,6 +7,7 @@ In this repository, I am collecting some basic notebooks for different visualiza
 1- **Plotly** 
 is an interactive, open-source, browse-base graphing library for python. Plotly is very well documented. Plotly notebook includes examples for : <br/>
 ![Crash Course](https://www.youtube.com/watch?v=GGL6U0k8WYA&ab_channel=DerekBanas)
+[Named Link](http://www.google.fr/ "Named link title")
 <br/>
 
 Install in jupyter notebook 
