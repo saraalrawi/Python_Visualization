@@ -19,6 +19,7 @@ Install the needed resources in jupyter notebook using the following:
 !pip install plotly
 !pip install cufflink
 !pip install seaborn
+!pip install pandas
 ```
 
 To improve this repository, please open an issue. 
