@@ -1,4 +1,4 @@
-# Python_Visualization
+# Python Visualizations APIs
 <br/>
 For any data scientist, machine learning engineer or a statistician; the most important step is understanding the data. To achieve that, mastering some visualization tools will make this task easier and enjoyable.<br/>
 <br/>
