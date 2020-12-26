@@ -9,11 +9,11 @@ In this repository, I am collecting some basic notebooks for different visualiza
 
 is an interactive, open-source, browse-base graphing library for python. Plotly is very well documented. Plotly notebook includes all sorts of plots. <br/>
 
-![Crash Course](https://www.youtube.com/watch?v=GGL6U0k8WYA&ab_channel=DerekBanas)
+![CrashCourse](https://www.youtube.com/watch?v=GGL6U0k8WYA&ab_channel=DerekBanas)
 
 <br/>
 
-Install in jupyter notebook 
+Install the needed resources in jupyter notebook using the following:
 
 ```python
 !pip install plotly
